@@ -7,7 +7,6 @@ import Banner from "./components/Banner.jsx"
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Banner />
     <Home />
     <Features />
   </React.StrictMode>
