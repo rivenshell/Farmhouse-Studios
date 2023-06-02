@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "vite  --host",
     "build": "vite build",
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css",
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
