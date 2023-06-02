@@ -8,6 +8,7 @@ export default {
     "./src/**/*.{js,jsx,ts,tsx}",
     "../components/**/*.{js,jsx,ts,tsx}",
     "../dist/**/*.{js,jsx,ts,tsx}",
+    "./src/index.html",
   ],
   theme: {
     extend: {
