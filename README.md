@@ -35,7 +35,7 @@ Scalable Solutions: We understand that businesses grow and evolve. Our design st
 Collaborative Approach: At Farmhouse Studios, we believe in close collaboration with our clients. Our iterative design process ensures that your vision and goals are at the forefront of every decision. We value your input and work together to deliver a website that exceeds expectations.
 
 
-Join us on the forefront of digital innovation with Farmhouse Studios. Elevate your online presence, engage your audience like never before, and unleash the power of 3D for your brand. Let's redefine website design together. legacy
+Join us on the forefront of digital innovation with Farmhouse Studios. Elevate your online presence, engage your audience like never before, and unleash the power of 3D for your brand. Let's redefine website design together. legacy (deployment)
 
 
 Are you ready to embark on a new dimension of the web? Contact us today for a personalized consultation.
